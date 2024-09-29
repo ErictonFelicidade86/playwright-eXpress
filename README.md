@@ -2,9 +2,6 @@
 
 <div>
 
-# Playwright-eXpress
-
-
 ## Descrição
 
 Um curso rápido, prático e direto ao ponto para você aprender automação de testes do ZERO e do jeito certo
